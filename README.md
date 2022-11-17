@@ -17,4 +17,3 @@ Result image palette:
 
 ![Result image palette](https://github.com/Estructuras-de-Datos-Avanzadas/laboratorio-04-JhenMa/blob/main/rainbow_palette.png)
 
- <img src="https://github.com/Estructuras-de-Datos-Avanzadas/laboratorio-04-JhenMa/blob/main/rainbow_palette.png" width="120" height="120"/></a> 

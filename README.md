@@ -15,6 +15,6 @@ Result image (colors reduced to 8 bit):
 
 Result image palette:
 
-![Result image palette](https://github.com/Estructuras-de-Datos-Avanzadas/laboratorio-04-JhenMa/blob/main/rainbow_palette.png width="300px")
+![Result image palette](https://github.com/Estructuras-de-Datos-Avanzadas/laboratorio-04-JhenMa/blob/main/rainbow_palette.png)
 
 

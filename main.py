@@ -19,7 +19,7 @@ def main():
     palette = octree.make_palette(256)
 
     # create palette for 256 color max and save to file
-    palette_image = Image.new('RGB', (32, 32))
+    palette_image = Image.new('RGB', (16, 16))
     palette_pixels = palette_image.load()
     for i, color in enumerate(palette):
         palette_pixels[i % 16, i / 16] = (int (color.red),int  (color.green),int (color.blue))
@@ -38,3 +38,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+

@@ -12,8 +12,3 @@ Original image (24 bit):
 Result image (colors reduced to 8 bit):
 
 ![Result image (colors reduced to 8 bit)](https://github.com/Estructuras-de-Datos-Avanzadas/laboratorio-04-JhenMa/blob/main/cyber_out.png)
-
-Result image palette:
-
-![Result image palette](https://github.com/Estructuras-de-Datos-Avanzadas/laboratorio-04-JhenMa/blob/main/rainbow_palette.png)
-

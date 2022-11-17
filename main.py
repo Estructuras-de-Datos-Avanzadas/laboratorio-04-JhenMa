@@ -23,7 +23,14 @@ def main():
     palette_pixels = palette_image.load()
     for i, color in enumerate(palette):
         palette_pixels[i % 16, i / 16] = (int (color.red),int  (color.green),int (color.blue))
-    palette_image.save('rainbow_palette.png')
+
+    palette_out = Image.new('RGB', (256, 256))
+    palette__out_p = palette_out.load()
+    for j in range(256):
+      for i in range(256):
+            palette__out_p[i, j] = palette_pixels[i / 16, j / 16]
+
+    palette_out.save('rainbow_palette.png')
 
     # save output image
     out_image = Image.new('RGB', (width, height))
